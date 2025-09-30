@@ -1,0 +1,23 @@
+{
+  "name": "paradigm-threat-files",
+  "version": "1.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "autogen": "tsx scripts/autogen.ts"
+  },
+  "dependencies": {
+    "@types/glob": "^9.0.0",
+    "@types/pg": "^8.15.5",
+    "@types/sharp": "^0.32.0",
+    "dotenv": "^17.2.3",
+    "glob": "^11.0.3",
+    "pg": "^8.16.3",
+    "reflect-metadata": "^0.2.2",
+    "sequelize": "^6.37.7",
+    "sequelize-typescript": "^2.1.6",
+    "sharp": "^0.34.4",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
